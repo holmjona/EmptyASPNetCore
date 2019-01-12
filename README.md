@@ -1,2 +1,6 @@
-# EmptyASPNetCore
-Project ASP.Net Starter
+# Put your Project name here
+This is where you describe your project and what it does.
+
+This is a markdown file. 
+
+You can learn more at: https://www.markdowntutorial.com/
